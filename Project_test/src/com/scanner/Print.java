@@ -7,6 +7,7 @@ public class Print {
 		for(i=1; i<=10; i++) {
 		System.out.println(i);
 	}
-		}
+	System.out.println("New Line ADDED");	
+	}
 
 }
